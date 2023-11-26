@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeSubmission</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_species">Species:</string>
+    <string name="title_type">Type:</string>
+    <string name="title_gender">Gender:</string>
+    <string name="title_location">Location:</string>
+    <string name="title_status">Status:</string>
+    <string name="my_profile_name">Salwa Ghaliyah Hilaly</string>
+    <string name="my_profile_email">ghaliyahsalwa@gmail.com</string>
+</resources>
